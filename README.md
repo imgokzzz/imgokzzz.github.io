@@ -2,4 +2,4 @@
 
 *Writeups of Various CTFs*
 
-#### Published Writeups: [Click Here]https://imgokzzz.github.io/()
+#### Published Writeups: [Click Here](https://imgokzzz.github.io/)
